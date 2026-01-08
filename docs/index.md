@@ -1,6 +1,7 @@
 <div class="hero">
 
 # Blake Tannehill
+
 ### Python Developer · Problem Solver · Builder
 
 I build clean, maintainable software with Python and web technologies.
@@ -9,3 +10,4 @@ I build clean, maintainable software with Python and web technologies.
 [GitHub](https://github.com/BTVance){ .md-button }
 
 </div>
+
