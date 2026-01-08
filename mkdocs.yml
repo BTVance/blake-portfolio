@@ -1,6 +1,8 @@
 site_name: Blake Tannehill
 site_description: Python Developer Portfolio
-site_url: https://github.com/BTVance/blake-portfolio
+site_url: https://btvance.github.io/blake-portfolio/
+use_directory_urls: true
+
 
 theme:
   name: material
@@ -32,7 +34,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Projects: projects.md
+  - Projects: projects/
   - About: about.md
 
 markdown_extensions:
