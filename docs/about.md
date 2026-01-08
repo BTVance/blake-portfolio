@@ -1,3 +1,14 @@
-# Hello, I'm Blake Tannehill
+# About Me
 
-I'm currently located in San Diego. 
+I’m a Python developer focused on building clear, maintainable systems.
+
+## Skills
+- Python
+- Git & GitHub
+- Static site generators
+- Linux
+
+## Goals
+- Backend development
+- Systems thinking
+- Continuous improvement

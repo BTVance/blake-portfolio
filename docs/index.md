@@ -1,13 +1,11 @@
-# Hi, I’m Blake 👋
+<div class="hero">
 
-I’m a Python developer focused on building clean, maintainable software.
+# Blake Tannehill
+### Python Developer · Problem Solver · Builder
 
-## What I Do
-- Python & Flask
-- Web applications
-- Automation & tooling
+I build clean, maintainable software with Python and web technologies.
 
-## Currently
-- Learning backend web development
-- Building portfolio projects
-- Improving system design skills
+[View Projects](projects.md){ .md-button .md-button--primary }
+[GitHub](https://github.com/YOUR_USERNAME){ .md-button }
+
+</div>

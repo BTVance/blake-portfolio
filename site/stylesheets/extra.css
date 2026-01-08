@@ -1,0 +1,39 @@
+.hero {
+  text-align: center;
+  padding: 4rem 1rem 3rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero h3 {
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 1.5rem;
+}
+
+.md-button {
+  margin: 0.25rem;
+}
+
+/* Project cards */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.project-card {
+  background: var(--md-default-bg-color);
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  box-shadow: var(--md-shadow-z2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--md-shadow-z4);
+}
