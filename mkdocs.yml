@@ -34,7 +34,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Projects: projects/
+  - Projects: projects.md
   - About: about.md
 
 markdown_extensions:

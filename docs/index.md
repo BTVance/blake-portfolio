@@ -1,13 +1,13 @@
 <div class="hero">
 
-# Blake Tannehill
+<h1>Blake Tannehill</h1>
+<h3>Python Developer · Problem Solver · Builder</h3>
 
-### Python Developer · Problem Solver · Builder
+<p>I build clean, maintainable software with Python and web technologies.</p>
 
-I build clean, maintainable software with Python and web technologies.
-
-[View Projects](projects.md){ .md-button .md-button--primary }
-[GitHub](https://github.com/BTVance){ .md-button }
+<a href="projects/" class="md-button md-button--primary">View Projects</a>
+<a href="https://github.com/BTVance" class="md-button">GitHub</a>
 
 </div>
+
 

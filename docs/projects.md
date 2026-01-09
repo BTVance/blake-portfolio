@@ -2,24 +2,21 @@
 
 <div class="project-grid">
 
-<div class="project-card">
+  <div class="project-card">
 
-## Portfolio Website
-**Tech:** Python, MkDocs, Markdown
+    <h2>Portfolio Website</h2>
+    <p><strong>Tech:</strong> Python, MkDocs, Markdown</p>
+    <p>A clean, static portfolio site built with Python tooling.</p>
+    <a href="https://github.com/BTVance/blake-portfolio" class="md-button md-button--primary">View Code</a>
 
-A clean, static portfolio site built with Python tooling.
+  </div>
 
-[View Code](https://github.com/BTVance/blake-portfolio)
+  <div class="project-card">
 
-</div>
+    <h2>Future Project</h2>
+    <p><strong>Tech:</strong> Python</p>
+    <p>Description coming soon.</p>
 
-<div class="project-card">
-
-## Future Project
-**Tech:** Python
-
-Description coming soon.
-
-</div>
+  </div>
 
 </div>
